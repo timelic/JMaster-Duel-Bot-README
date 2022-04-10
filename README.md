@@ -46,7 +46,7 @@ The tool's features currently are:
 - Disable Unity Crash Reporter (no crash reports sent to Konami): This happens automatically when running the application
 - [Play illegal Decks in ~~PvP~~ Solo](https://www.youtube.com/watch?v=ZdcfKqkr1jk) (forbidden cards and non-owned cards, essentially unlock all cards at 3x and allow playing less than 40 cards in your main deck)
 - Duel Spoofer (allows you to build any decks you want in the bot's UI completely with no limitations at all and load/save deck profiles in JSON format, MasterDuelMeta.com saved decks can be loaded as well)
-- Duel Spy (Allow seeing your entire deck ordering in solo duels)
+- [Duel Spy](https://www.youtube.com/watch?v=qqKje6WB5A4) (Allow seeing your entire deck ordering in solo duels)
 - *... potentially more*
 
 ## Donator
