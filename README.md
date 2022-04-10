@@ -27,7 +27,12 @@ Please download the application [here](https://bit.ly/3MhsKRd).
 
 ## Features
 The tool's features currently are:
-- [Botting solo duels for XP](https://www.youtube.com/watch?v=hJbZtvzDB1Q) (and therefore unlimited lifetime mission gem rewards)
+- [Botting solo duels for XP](https://www.youtube.com/watch?v=hJbZtvzDB1Q) (and therefore unlimited lifetime mission gem rewards)  
+*Note: It's now recommended to use the "Solo XP Network Bot" instead.*
+- [Solo XP Network Bot](https://www.youtube.com/watch?v=ZbN9Vcv_FmM) (level your account up to level 50 easily and earn gems)
+- Complete All Solo Chapters Network Bot (automatically completes the entire solo mode within 5 minutes and gives you ~18.000 gems on a new account)  
+*Note: This feature is currently not publicly available but this might change in the future. This feature is very useful for account selling.*
+- [Botting PvP Duels](https://www.youtube.com/watch?v=fMmEmrLBQoA) (currently only with passing turns but will be extended to support dueling with certain decks like [D.D. Dynamite deck botting](https://www.youtube.com/watch?v=-JT3NS8Iar8))
 - Starting, quitting, pausing and resuming the game
 - [Instant Win](https://www.youtube.com/watch?v=7_rI8beVxaM) (story mode)
 - Set your LP
@@ -40,10 +45,12 @@ The tool's features currently are:
 - Disable PvP Inactivity Surrender (No longer lose automatically for being idle)
 - Disable Unity Crash Reporter (no crash reports sent to Konami): This happens automatically when running the application
 - [Play illegal Decks in ~~PvP~~ Solo](https://www.youtube.com/watch?v=ZdcfKqkr1jk) (forbidden cards and non-owned cards, essentially unlock all cards at 3x and allow playing less than 40 cards in your main deck)
+- Duel Spoofer (allows you to build any decks you want in the bot's UI completely with no limitations at all and load/save deck profiles in JSON format, MasterDuelMeta.com saved decks can be loaded as well)
+- Duel Spy (Allow seeing your entire deck ordering in solo duels)
 - *... potentially more*
 
 ## Donator
-Some feature may require Donator status. If you're interested in unlocking all features, check out the `Donator` tab in the application. Thank you for supporting this project. With your contribution, we can make the bot great again.
+Some feature may require Donator status. If you're interested in unlocking all features, check out the `Donator` tab in the application. Thank you for supporting this project. With your contribution, we can make the bot great again™.
 
 ## Credits
 The credits can be found in the application on the `About` tab.
